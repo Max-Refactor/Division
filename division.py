@@ -40,4 +40,4 @@ def division(a: int, b: int):
         print(Error)
 
 if __name__ == '__main__': 
-    division(input("A: "), input("B: "))
+    division(155, 5)
