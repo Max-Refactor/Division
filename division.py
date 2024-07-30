@@ -2,7 +2,7 @@ from pprint import pprint
 import os
 
 def division(a: int, b: int):
-    os.system('cls')
+    os.system('cls||clear')
     try:
         dvars = {
             'a': {
