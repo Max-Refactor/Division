@@ -39,4 +39,5 @@ def division(a: int, b: int):
     except Exception as Error:
         print(Error)
 
-if __name__ == '__main__': division(15, 5)
+if __name__ == '__main__': 
+    division(input("A: "), input("B: "))
